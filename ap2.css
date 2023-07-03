@@ -1,0 +1,34 @@
+ .t4{
+    position: absolute;
+    top: 0px;
+    bottom: 100px;
+    left: 100px;
+    right: 100px;
+   
+   width:250px;
+   height: 250px;
+   border:1px solid #000;
+background-color: rgb(51, 65, 65);" 
+}
+.t5{  position: absolute;
+    top: 100px;
+    bottom: 100px;
+    left: 250px;
+    right: 100px;
+   
+    width:250px;
+    height: 250px;
+    border:1px solid #000;
+ background-color: rgb(213, 15, 219);" 
+ }
+ .t6{   position: fixed;
+    top: 250px;
+    bottom: 100px;
+    left: 400px;
+    right: 100px;
+   
+    width:250px;
+    height: 250px;
+    border:1px solid #000;
+ background-color: rgb(68, 209, 43);" 
+ }

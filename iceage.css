@@ -1,0 +1,47 @@
+
+
+.d{
+    font-family: 'Times New Roman', Times, serif;
+   font-weight: bold;
+   color: black;
+}
+.h{ color: aliceblue;
+    font-style: normal;
+    font-weight: 2;
+    background-color: rgb(7, 7, 146);
+}
+
+.search-bar {
+    display: flex;
+    align-items: left;
+    max-width: 200px;
+    margin: 0 auto;
+  }
+  
+  .search-bar input[type="text"] {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 14px;
+  }
+  
+  /* .search-bar {
+    position: absolute;
+    top: 0;
+    right: 0;
+  } */
+  /* .search-bar button {
+    padding: 8px 12px;
+    background-color: #4CAF50;
+    border: none;
+    border-radius: 4px;
+    color: white;
+    font-size: 14px;
+    cursor: pointer;
+    margin-left: 8px;
+  }
+   */
+   #1{
+    font-family: fantasy;
+   }
